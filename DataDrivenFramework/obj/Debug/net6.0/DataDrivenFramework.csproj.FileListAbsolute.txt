@@ -1,0 +1,12 @@
+C:\Users\Thirumala_Rajolu\source\repos\ProgramsSetSln\DataDrivenFramework\bin\Debug\net6.0\DataDrivenFramework.deps.json
+C:\Users\Thirumala_Rajolu\source\repos\ProgramsSetSln\DataDrivenFramework\bin\Debug\net6.0\DataDrivenFramework.dll
+C:\Users\Thirumala_Rajolu\source\repos\ProgramsSetSln\DataDrivenFramework\bin\Debug\net6.0\DataDrivenFramework.pdb
+C:\Users\Thirumala_Rajolu\source\repos\ProgramsSetSln\DataDrivenFramework\obj\Debug\net6.0\DataDrivenFramework.csproj.AssemblyReference.cache
+C:\Users\Thirumala_Rajolu\source\repos\ProgramsSetSln\DataDrivenFramework\obj\Debug\net6.0\DataDrivenFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thirumala_Rajolu\source\repos\ProgramsSetSln\DataDrivenFramework\obj\Debug\net6.0\DataDrivenFramework.AssemblyInfoInputs.cache
+C:\Users\Thirumala_Rajolu\source\repos\ProgramsSetSln\DataDrivenFramework\obj\Debug\net6.0\DataDrivenFramework.AssemblyInfo.cs
+C:\Users\Thirumala_Rajolu\source\repos\ProgramsSetSln\DataDrivenFramework\obj\Debug\net6.0\DataDrivenFramework.csproj.CoreCompileInputs.cache
+C:\Users\Thirumala_Rajolu\source\repos\ProgramsSetSln\DataDrivenFramework\obj\Debug\net6.0\DataDrivenFramework.dll
+C:\Users\Thirumala_Rajolu\source\repos\ProgramsSetSln\DataDrivenFramework\obj\Debug\net6.0\refint\DataDrivenFramework.dll
+C:\Users\Thirumala_Rajolu\source\repos\ProgramsSetSln\DataDrivenFramework\obj\Debug\net6.0\DataDrivenFramework.pdb
+C:\Users\Thirumala_Rajolu\source\repos\ProgramsSetSln\DataDrivenFramework\obj\Debug\net6.0\ref\DataDrivenFramework.dll

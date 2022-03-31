@@ -1,0 +1,17 @@
+C:\Users\Thirumala_Rajolu\source\repos\ProgramsSetSln\ProgramsSetSln\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Thirumala_Rajolu\source\repos\ProgramsSetSln\ProgramsSetSln\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Thirumala_Rajolu\source\repos\ProgramsSetSln\ProgramsSetSln\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Thirumala_Rajolu\source\repos\ProgramsSetSln\ProgramsSetSln\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Thirumala_Rajolu\source\repos\ProgramsSetSln\ProgramsSetSln\bin\Debug\ProgramsSetSln.dll
+C:\Users\Thirumala_Rajolu\source\repos\ProgramsSetSln\ProgramsSetSln\bin\Debug\ProgramsSetSln.pdb
+C:\Users\Thirumala_Rajolu\source\repos\ProgramsSetSln\ProgramsSetSln\bin\Debug\DataDrivenExcel.dll
+C:\Users\Thirumala_Rajolu\source\repos\ProgramsSetSln\ProgramsSetSln\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Thirumala_Rajolu\source\repos\ProgramsSetSln\ProgramsSetSln\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Thirumala_Rajolu\source\repos\ProgramsSetSln\ProgramsSetSln\bin\Debug\DataDrivenExcel.pdb
+C:\Users\Thirumala_Rajolu\source\repos\ProgramsSetSln\ProgramsSetSln\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Thirumala_Rajolu\source\repos\ProgramsSetSln\ProgramsSetSln\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Thirumala_Rajolu\source\repos\ProgramsSetSln\ProgramsSetSln\obj\Debug\ProgramsSetSln.csproj.AssemblyReference.cache
+C:\Users\Thirumala_Rajolu\source\repos\ProgramsSetSln\ProgramsSetSln\obj\Debug\ProgramsSetSln.csproj.CoreCompileInputs.cache
+C:\Users\Thirumala_Rajolu\source\repos\ProgramsSetSln\ProgramsSetSln\obj\Debug\ProgramsSetSln.csproj.CopyComplete
+C:\Users\Thirumala_Rajolu\source\repos\ProgramsSetSln\ProgramsSetSln\obj\Debug\ProgramsSetSln.dll
+C:\Users\Thirumala_Rajolu\source\repos\ProgramsSetSln\ProgramsSetSln\obj\Debug\ProgramsSetSln.pdb

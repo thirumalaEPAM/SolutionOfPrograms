@@ -1,0 +1,6 @@
+C:\Users\Thirumala_Rajolu\source\repos\ProgramsSetSln\DataDrivenExcel\bin\Debug\DataDrivenExcel.dll
+C:\Users\Thirumala_Rajolu\source\repos\ProgramsSetSln\DataDrivenExcel\bin\Debug\DataDrivenExcel.pdb
+C:\Users\Thirumala_Rajolu\source\repos\ProgramsSetSln\DataDrivenExcel\obj\Debug\DataDrivenExcel.csproj.AssemblyReference.cache
+C:\Users\Thirumala_Rajolu\source\repos\ProgramsSetSln\DataDrivenExcel\obj\Debug\DataDrivenExcel.csproj.CoreCompileInputs.cache
+C:\Users\Thirumala_Rajolu\source\repos\ProgramsSetSln\DataDrivenExcel\obj\Debug\DataDrivenExcel.dll
+C:\Users\Thirumala_Rajolu\source\repos\ProgramsSetSln\DataDrivenExcel\obj\Debug\DataDrivenExcel.pdb
